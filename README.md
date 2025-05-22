@@ -4,3 +4,5 @@ The US is experiencing a shortage of around 3000 air traffic controllers leading
 The optimal result of this project would be a complete AI agent that can fully replace the missing 3000 workers, ideally with development, testing, and deployment taking far less time than it takes to train a new human air traffic controller.
 
 For an overview of upcoming milestones and deployment goals, see the [project roadmap](ROADMAP.md).
+
+A high-level look at the scope and challenges of automating these tasks is provided in the [feasibility study](FEASIBILITY.md).
